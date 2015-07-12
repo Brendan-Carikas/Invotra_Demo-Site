@@ -1,0 +1,45 @@
+https://io1dev.atlassian.net/browse/INVBD-363 Golf section page
+https://io1dev.atlassian.net/browse/INVBD-361 Funny characters
+https://io1dev.atlassian.net/browse/INVBD-364 General styles blogs
+https://io1dev.atlassian.net/browse/INVBD-360 Pan title size
+https://io1dev.atlassian.net/browse/INVBD-355 Similar Users
+https://io1dev.atlassian.net/browse/INVBD-358 About Container
+https://io1dev.atlassian.net/browse/INVBD-362 Slideshow widget update (To merge 13/07)
+
+
+
+https://io1dev.atlassian.net/browse/INVBD-375
+
+https://io1dev.atlassian.net/browse/INVBD-359 Reviewed
+https://io1dev.atlassian.net/browse/INVBD-369 Assigned
+
+https://io1dev.atlassian.net/browse/INVBD-362 Slideshow widget update (To merge 13/07)
+
+https://io1dev.atlassian.net/browse/INVBD-358 Reviewed
+https://io1dev.atlassian.net/browse/INVBD-370 Assigned/Resolved
+
+https://io1dev.atlassian.net/browse/INVBD-355 Reviewed
+https://io1dev.atlassian.net/browse/INVBD-371 To be Assigned
+
+https://io1dev.atlassian.net/browse/INVBD-348 Reviewed/Done
+
+
+https://io1dev.atlassian.net/browse/INVBD-347 Review this ****  (image styles)
+https://io1dev.atlassian.net/browse/INVBD-373 Assigned task
+
+
+
+
+https://io1dev.atlassian.net/browse/INVBD-304 Polls - Can we commit to DWP site?
+https://io1dev.atlassian.net/browse/INVBD-319 Groups Can we commit to DWP site?
+https://io1dev.atlassian.net/browse/INVBD-307 Webform build page Can we commit to DWP site? Check this
+
+https://io1dev.atlassian.net/browse/INVBD-372 Assigned to me Look at *****
+
+
+
+
+https://io1dev.atlassian.net/browse/INVCOM-394 New assignment Letter spacing
+
+
+
