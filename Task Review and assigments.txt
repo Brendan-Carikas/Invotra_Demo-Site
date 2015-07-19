@@ -1,10 +1,4 @@
-https://io1dev.atlassian.net/browse/INVBD-363 Golf section page
-https://io1dev.atlassian.net/browse/INVBD-361 Funny characters
-https://io1dev.atlassian.net/browse/INVBD-364 General styles blogs
-https://io1dev.atlassian.net/browse/INVBD-360 Pan title size
-https://io1dev.atlassian.net/browse/INVBD-355 Similar Users
-https://io1dev.atlassian.net/browse/INVBD-358 About Container
-https://io1dev.atlassian.net/browse/INVBD-362 Slideshow widget update (To merge 13/07)
+
 
 
 
